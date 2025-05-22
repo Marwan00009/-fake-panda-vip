@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "src": "/vip/check",
+      "methods": ["GET"],
+      "dest": "/index.js"
+    }
+  ]
+}
